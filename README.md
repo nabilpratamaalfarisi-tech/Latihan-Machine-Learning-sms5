@@ -295,5 +295,4 @@ Pada tahap deployment, model disimpan dalam format `joblib` dan digunakan pada a
 Dengan demikian, proyek ini mencakup tiga tahap utama pengembangan Machine Learning: **modeling, evaluation, dan deployment**.
 
 Pengembangan selanjutnya dapat dilakukan dengan menambahkan formulir input karakteristik rumah, memperbaiki penanganan data yang kosong, melakukan penyetelan parameter model, dan menguji model pada data yang lebih beragam.
-#   L a t i h a n - M a c h i n e - L e a r n i n g - s m s 5  
- 
+#
